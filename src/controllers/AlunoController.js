@@ -1,5 +1,6 @@
 import Aluno from '../models/AlunoModels'
 import Foto from '../models/FotoModel'
+
 class AlunoController {
   async store(req,res){
     try {
